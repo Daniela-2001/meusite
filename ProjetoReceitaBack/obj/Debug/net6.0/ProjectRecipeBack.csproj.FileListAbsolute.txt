@@ -1,0 +1,191 @@
+C:\Users\danie\Downloads\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\refint\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.genruntimeconfig.cache
+C:\Users\danie\Downloads\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ref\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\refint\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.genruntimeconfig.cache
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ref\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CopyComplete
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CopyComplete
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\refint\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.genruntimeconfig.cache
+C:\Users\danie\Downloads\ProjetoReceita1\ProjetoReceita1\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ref\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CopyComplete
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\refint\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.genruntimeconfig.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ref\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CopyComplete
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\refint\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.genruntimeconfig.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ref\ProjectRecipeBack.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CopyComplete
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\refint\ProjectRecipeBack.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjetoReceitaBack\obj\Debug\net6.0\ref\ProjectRecipeBack.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.exe
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.pdb
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.AssemblyReference.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.GeneratedMSBuildEditorConfig.editorconfig
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfoInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfo.cs
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CoreCompileInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectR.E5DF8260.Up2Date
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\refint\ProjectRecipeBack.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.pdb
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.genruntimeconfig.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ref\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CopyComplete
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\refint\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.genruntimeconfig.cache
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ref\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.AssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.csproj.CopyComplete
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\refint\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ProjectRecipeBack.genruntimeconfig.cache
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjetoReceitaBack\obj\Debug\net6.0\ref\ProjectRecipeBack.dll

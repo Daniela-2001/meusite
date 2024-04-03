@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|s:\\assembly\\daniela\\projetoreceita 30-03-24\\projetoreceita 30-03-24\\projectrecipe\\pages\\publishevalution\\publish.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\publishevalution\\publish.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|s:\\assembly\\daniela\\projetoreceita 30-03-24\\projetoreceita 30-03-24\\projectrecipe\\pages\\publishevalution\\publish.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\publishevalution\\publish.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|s:\\assembly\\daniela\\projetoreceita 30-03-24\\projetoreceita 30-03-24\\projectrecipe\\pages\\ingredient\\ingredientcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\ingredient\\ingredientcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|s:\\assembly\\daniela\\projetoreceita 30-03-24\\projetoreceita 30-03-24\\projectrecipe\\pages\\ingredient\\ingredients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\ingredient\\ingredients.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|s:\\assembly\\daniela\\projetoreceita 30-03-24\\projetoreceita 30-03-24\\projectrecipe\\pages\\evaluation\\evaluations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\evaluation\\evaluations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|s:\\assembly\\daniela\\projetoreceita 30-03-24\\projetoreceita 30-03-24\\projectrecipe\\pages\\recipedetalhe\\recipedetalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\recipedetalhe\\recipedetalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|s:\\assembly\\daniela\\projetoreceita 30-03-24\\projetoreceita 30-03-24\\projectrecipe\\pages\\evaluation\\evaluations.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\evaluation\\evaluations.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|s:\\assembly\\daniela\\projetoreceita 30-03-24\\projetoreceita 30-03-24\\projectrecipe\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|s:\\assembly\\daniela\\projetoreceita 30-03-24\\projetoreceita 30-03-24\\projectrecipe\\pages\\ingredient\\ingredientupdate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\ingredient\\ingredientupdate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|s:\\assembly\\daniela\\projetoreceita 30-03-24\\projetoreceita 30-03-24\\projectrecipe\\pages\\ingredient\\ingredients.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\ingredient\\ingredients.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|s:\\assembly\\daniela\\projetoreceita 30-03-24\\projetoreceita 30-03-24\\projectrecipe\\pages\\ingredient\\ingredientupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\ingredient\\ingredientupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|s:\\assembly\\daniela\\projetoreceita 30-03-24\\projetoreceita 30-03-24\\projectrecipe\\pages\\ingredient\\ingredientcreate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\ingredient\\ingredientcreate.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|s:\\assembly\\daniela\\projetoreceita 30-03-24\\projetoreceita 30-03-24\\projectrecipe\\pages\\recipedetalhe\\recipedetalhes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\recipedetalhe\\recipedetalhes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|s:\\assembly\\daniela\\projetoreceita 30-03-24\\projetoreceita 30-03-24\\projectrecipe\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Publish.cshtml.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\PublishEvalution\\Publish.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\PublishEvalution\\Publish.cshtml.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\PublishEvalution\\Publish.cshtml.cs",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\PublishEvalution\\Publish.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvx0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:39:19.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publish.cshtml",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\PublishEvalution\\Publish.cshtml",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\PublishEvalution\\Publish.cshtml",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\PublishEvalution\\Publish.cshtml",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\PublishEvalution\\Publish.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T17:39:13.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecipeDetalhes.cshtml",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\RecipeDetalhe\\RecipeDetalhes.cshtml",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\RecipeDetalhe\\RecipeDetalhes.cshtml",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\RecipeDetalhe\\RecipeDetalhes.cshtml",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\RecipeDetalhe\\RecipeDetalhes.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAALMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T02:15:26.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Evaluations.cshtml",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Evaluation\\Evaluations.cshtml",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\Evaluation\\Evaluations.cshtml",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Evaluation\\Evaluations.cshtml",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\Evaluation\\Evaluations.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T17:40:00.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ingredients.cshtml",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Ingredient\\Ingredients.cshtml",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\Ingredient\\Ingredients.cshtml",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Ingredient\\Ingredients.cshtml",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\Ingredient\\Ingredients.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAUwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T17:15:55.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IngredientCreate.cshtml",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Ingredient\\IngredientCreate.cshtml",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\Ingredient\\IngredientCreate.cshtml",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Ingredient\\IngredientCreate.cshtml",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\Ingredient\\IngredientCreate.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T16:18:51.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Evaluations.cshtml.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Evaluation\\Evaluations.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\Evaluation\\Evaluations.cshtml.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Evaluation\\Evaluations.cshtml.cs",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\Evaluation\\Evaluations.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:39:29.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ingredients.cshtml.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Ingredient\\Ingredients.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\Ingredient\\Ingredients.cshtml.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Ingredient\\Ingredients.cshtml.cs",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\Ingredient\\Ingredients.cshtml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:15:51.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAC8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T17:36:35.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IngredientUpdate.cshtml.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Ingredient\\IngredientUpdate.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\Ingredient\\IngredientUpdate.cshtml.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Ingredient\\IngredientUpdate.cshtml.cs",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\Ingredient\\IngredientUpdate.cshtml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:37:27.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IngredientUpdate.cshtml",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Ingredient\\IngredientUpdate.cshtml",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\Ingredient\\IngredientUpdate.cshtml",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Ingredient\\IngredientUpdate.cshtml",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\Ingredient\\IngredientUpdate.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwCEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T16:36:47.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IngredientCreate.cshtml.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Ingredient\\IngredientCreate.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\Ingredient\\IngredientCreate.cshtml.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Ingredient\\IngredientCreate.cshtml.cs",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\Ingredient\\IngredientCreate.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:18:55.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RecipeDetalhes.cshtml.cs",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\RecipeDetalhe\\RecipeDetalhes.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\RecipeDetalhe\\RecipeDetalhes.cshtml.cs",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\RecipeDetalhe\\RecipeDetalhes.cshtml.cs",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\RecipeDetalhe\\RecipeDetalhes.cshtml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T02:50:47.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\Index.cshtml",
+              "ToolTip": "S:\\ASSEMBLY\\Daniela\\ProjetoReceita 30-03-24\\ProjetoReceita 30-03-24\\ProjectRecipe\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T01:09:36.528Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
